@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+GAME TITLE: Immortal Snake
+VERSION or DATE: 9/27/2019
+HOW TO START THIS PROJECT: Compile and run the java project using your method of choice. SnakeApp() is the main app to run.
+USER INSTRUCTIONS: Use the arrow keys to mave the snake around the screen. When the snake passes over the cake image, the snake grows in length.
